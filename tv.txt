@@ -1,36 +1,30 @@
 #EXTM3U url-tvg="https://live.fanminming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 大民讨说法,#genre#
-24年1月12日,https://file-video.taizhou.com.cn/founder/founder/founder/ADD0018D5EE64DE2A82142DA0524C3BC.mp4
-24年1月11日,https://file-video.taizhou.com.cn/founder/founder/founder/4B7D388A3FEF44978592DAA6347FEDCC.mp4
-24年1月10日,https://file-video.taizhou.com.cn/founder/founder/founder/962A9481FDC6464D8C5B9369FB7ACC16.mp4
-24年1月8日,https://file-video.taizhou.com.cn/founder/founder/founder/A858AEA3346E4479856292FBBC4F76A5.mp4
-24年1月5日,https://file-video.taizhou.com.cn/founder/founder/founder/6D931EDE2288437FABE2D02D482B3133.mp4
-24年1月4日,https://file-video.taizhou.com.cn/founder/founder/founder/AEA7C71CB9BB444F996EDBCCB2DF4844.mp4
-24年1月3日,https://file-video.taizhou.com.cn/founder/founder/founder/843F412C5D6D40EABAD84D5CBA66BC7E.mp4
-24年1月2日,https://file-video.taizhou.com.cn/founder/founder/founder/7C44F588A8DC4455B27B99067CBAC653.mp4
-24年1月1日,https://file-video.taizhou.com.cn/founder/founder/founder/5B544A94B4914B17BDA6916D25863040.mp4
-23年12月29日,https://file-video.taizhou.com.cn/founder/founder/founder/1620FD0425C142A2B4BA6DD578D70BEF.mp4
-23年12月28日,https://file-video.taizhou.com.cn/founder/founder/founder/D1427D935CD1425091D23E09A7425719.mp4
-23年12月27日,https://file-video.taizhou.com.cn/founder/founder/founder/56974103E51D4233BDC2B551A4669B5B.mp4
-23年12月26日,https://file-video.taizhou.com.cn/founder/founder/founder/E997EA276E97486FA53B581D7AF87D0C.mp4
+24年1月19日,https://file-video.taizhou.com.cn/founder/founder/founder/54D3C3F5747B4488A0EA414A2E9B1528.mp4
+24年1月18日,https://file-video.taizhou.com.cn/founder/founder/founder/54D3C3F5747B4488A0EA414A2E9B1528.mp4
+24年1月17日,https://file-video.taizhou.com.cn/founder/founder/founder/171DAE592EEF4373AE1AD0F4040B227C.mp4
+24年1月16日,https://file-video.taizhou.com.cn/founder/founder/founder/440ADBE593284C8FAC2C15ED7F44ECF9.mp4
+24年1月15日,https://file-video.taizhou.com.cn/founder/founder/founder/A084D3DD98F94B489FF4BBD883A6D690.mp4
+24年1月12日,https://file-video.taizhou.com.cn/founder/founder/founder/28AAA23E5D53447EB3077FF75EB4E115.mp4
+24年1月11日,https://file-video.taizhou.com.cn/founder/founder/founder/ADD0018D5EE64DE2A82142DA0524C3BC.mp4
+24年1月10日,https://file-video.taizhou.com.cn/founder/founder/founder/4B7D388A3FEF44978592DAA6347FEDCC.mp4
+24年1月8日,https://file-video.taizhou.com.cn/founder/founder/founder/962A9481FDC6464D8C5B9369FB7ACC16.mp4
+24年1月5日,https://file-video.taizhou.com.cn/founder/founder/founder/A858AEA3346E4479856292FBBC4F76A5.mp4
+
 
 阿福讲白搭,#genre#
+24年1月17日,https://file-video.taizhou.com.cn/founder/founder/founder/A1AAEEFE86B9455F94552175133F1983.mp4
+24年1月16日,https://file-video.taizhou.com.cn/founder/founder/founder/53F703663FE1489BA4593ED1643CCFCA.mp4
+24年1月15日,https://file-video.taizhou.com.cn/founder/founder/founder/55ECC6DAE9124F2B9B8F6BF76E9006AE.mp4
+24年1月13日,https://file-video.taizhou.com.cn/founder/founder/founder/23899CD2267E49E2B9A9816209C20E4E.mp4
+24年1月12日,https://file-video.taizhou.com.cn/founder/founder/founder/D8C133D5FA1040BE9DE86F33492991F7.mp4
 24年1月11日,https://file-video.taizhou.com.cn/founder/founder/founder/E3D044A2109B4EEC8755367A2EDC8B97.mp4
-24年1月10日,https://file-video.taizhou.com.cn/founder/founder/founder/48DC90958E964301BE1C92F505A480BB.mp4
-24年1月9日,https://file-video.taizhou.com.cn/founder/founder/founder/27ED4437AE294E788784209AD0CB60CF.mp4
+24年1月10日,https://file-video.taizhou.com.cn/founder/founder/founder/6BB789701EA04F0C8740B20CFB95B8FE.mp4
+24年1月9日,https://file-video.taizhou.com.cn/founder/founder/founder/669F6E5BC18844A1B2895AAF1A0C4E33.mp4
 24年1月8日,https://file-video.taizhou.com.cn/founder/founder/founder/5B38E45DB2C94D8BBC54385D209AB366.mp4
 24年1月6日,https://file-video.taizhou.com.cn/founder/founder/founder/E9A90C4766C3481CA338E7EB2CEC3367.mp4
-24年1月5日,https://file-video.taizhou.com.cn/founder/founder/founder/43229E8C10874ED7989E2C49D3DEE4D6.mp4
-24年1月4日,https://file-video.taizhou.com.cn/founder/founder/founder/4E93417101F0448B8D675A27FF059CDF.mp4
-24年1月3日,https://file-video.taizhou.com.cn/founder/founder/founder/DF93F9FB09F64CA482A9A1FB1FDD8A57.mp4
-24年1月2日,https://file-video.taizhou.com.cn/founder/founder/founder/84A81F7C4F0C4638A8B899CB0F8E2724.mp4
-24年1月1日,https://file-video.taizhou.com.cn/founder/founder/founder/DF3B46075AE24419AA70C1B2DBFF7AEF.mp4
-23年12月30日,https://file-video.taizhou.com.cn/founder/founder/founder/3147C17E0AEC46238F30DFE915D87905.mp4
-23年12月29日,https://file-video.taizhou.com.cn/founder/founder/founder/C9C3C554BC7A4AFF82BB9A50FFBD6679.mp4
-23年12月28日,https://file-video.taizhou.com.cn/founder/founder/founder/8D2DFB3914584C16875CC1D23E7A64BB.mp4
-23年12月27日,https://file-video.taizhou.com.cn/founder/founder/founder/92D98BA0772B4D15AF41481F70ED5A8E.mp4
-23年12月26日,https://file-video.taizhou.com.cn/founder/founder/founder/7D265796394E4ECDA314919BAB57C6C9.mp4
+
 
 央视,#genre#
 CCTV-1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
